@@ -28,7 +28,7 @@ Run `bundle exec inspect ./path/to/json/file` to load JSON file into inspector.
 
 ## Development
 
-After checking out the repo, run `bundle install` to install dependencies. Then, run `bundle exec rake spec` to run the tests. Run `bundle exec json_inspector` to use the gem in this directory, ignoring other installed copies of this gem.
+After checking out the repo, run `bundle install` to install dependencies. Then, run `bundle exec rake spec` to run the tests. Run `bundle exec inspect` to use the gem in this directory, ignoring other installed copies of this gem.
 
 ## Contributing
 
