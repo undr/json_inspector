@@ -1,5 +1,7 @@
 # Json Inspector
 
+[![Build Status](https://travis-ci.org/undr/json_inspector.svg?branch=master)](https://travis-ci.org/undr/json_inspector)
+
 Console tool for inspecting JSON.
 
 ## Installation
