@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require 'json_inspector'
+
+context = JsonInspector::Context.new(ARGV[0])
+Pry.start(context, prompt: context._prompt_, output_prefix: '')
